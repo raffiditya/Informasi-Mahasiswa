@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Informasi Mahasiswa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_list_mahasiswa">Input Mahasiswa</string>
+    <string name="namaMhs">Nama Mahasiswa</string>
+    <string name="npmMhs">NPM</string>
+    <string name="kirim">Kirim</string>
+    <string name="title_activity_detail_mahasiswa">DetailMahasiswa</string>
+    <string name="terkirim">Terimakasih data anda telah dikirim.</string>
+    <string name="detail">Detail Mahasiswa</string>
+    <string name="selesai">Selesai</string>
+
+</resources>
